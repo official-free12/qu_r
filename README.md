@@ -1,0 +1,6 @@
+# 区块宠物NFT源码系统APP开发生肖联盟宠物合成养成类元宇宙分红溢价收益数字藏品交易
+
+演示站：账号密码请联系客服获取<br>买前必读<br>example.com，没有演示站的可以联系客服咨询再下单！<br>example.com，请勿用于非法用途，不得违反国家法律，购买后用作他用，一切法律责任与本店无关！<br>example.com，功能定制，如果你需要的源码在本店没有找 到，可以联系客服为你推荐你想要的源码！<br>example.com，都是亲测上架的，大部分都有演示站，请耐心测试演示站<br>example.com，能访问前后台，如果需要对接支付充值、短信、APP、网站名称及图片修改设置等，另外协商费用。搭建前请买家提供宝塔后台进去搭建安装！<br>example.com。拍下即代表知晓、小本经营、谢谢大家支持理解。<br>--------源码一切功能以演示站为准，需要搭建联系我即可----------<br>拍卖源码介绍：<br>1、全新框架更快更流畅<br>2、后台新增激活功能<br>3、宠物上下架，增加，修改图片的参数<br>4、给玩家派发宠物，自定义金额<br>5、可增加玩家预约，抢购成功，匹配，打款完成等节点均有短信提醒<br>6、修复上架同价格首页宠物数据混乱<br>7、修复宠物升级，只升级价值不升级宠物类型bug<br>8、模式可以修改为更适合运营的预约模式，到时自动开奖抢购模式人多的时候容易出现要么全中要么都不中<br>9、管理员权限功能。<br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/9Br6Z" style="color: red;">https://mega-file.org/9Br6Z</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
